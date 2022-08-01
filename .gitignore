@@ -1,0 +1,5 @@
+.venv*
+labb.ipynb
+requirements.local.txt
+.pytest_cache
+__pycache__
